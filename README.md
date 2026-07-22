@@ -1,2 +1,3 @@
-# practica-git
-Práctica de flujo básico de Git y GitHub
+# Práctica de Git y GitHub
+* **Nombre:** [Luis Eduardo Flores Garcia]
+* **Descripción:** Ejercicio sobre el flujo básico de trabajo con Git y GitHub.
